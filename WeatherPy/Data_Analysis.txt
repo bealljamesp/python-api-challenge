@@ -1,5 +1,0 @@
-In the table titled "City Latitude vs. Max Temperature (F) (04/25/22)", it can be seen that as the latitude gets further away from 0, in either a positive or negative direction, the temperature incrreases. This is consistent with findings that the further away from the equater you go, the colder the average temperature becomes.
-
-In the table titles "Northern Hemisphere - City Latitude vs. Humidity (%) (04/25/22)", a slight positive trend can be seen in the relationship in the increasing latitude of the specific city and its percentage of humidity. This is likely due to difference in locations of rising and sinking winds that are present at these cities. 
-
-In the table titled "Southern Hemisphere - City Latitude vs. Cloudiness (%) (04/25/22)", there is a minor positive trend in the relationship between the increasing latitude and the percentage of cloudiness. This is likely related to temperature changes and/or perhaps the rising and sinking wind currents present at different latitudes.
